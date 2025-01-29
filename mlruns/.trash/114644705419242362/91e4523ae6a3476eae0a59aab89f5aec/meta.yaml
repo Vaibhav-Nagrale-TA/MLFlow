@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/114644705419242362/91e4523ae6a3476eae0a59aab89f5aec/artifacts
+deleted_time: 1738169343267
+end_time: 1738159936353
+entry_point_name: ''
+experiment_id: '114644705419242362'
+lifecycle_stage: deleted
+run_id: 91e4523ae6a3476eae0a59aab89f5aec
+run_name: receptive-hound-964
+run_uuid: 91e4523ae6a3476eae0a59aab89f5aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738159936128
+status: 3
+tags: []
+user_id: vaibhav

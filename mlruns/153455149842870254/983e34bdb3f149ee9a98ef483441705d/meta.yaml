@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153455149842870254/983e34bdb3f149ee9a98ef483441705d/artifacts
+end_time: 1738169850185
+entry_point_name: ''
+experiment_id: '153455149842870254'
+lifecycle_stage: active
+run_id: 983e34bdb3f149ee9a98ef483441705d
+run_name: able-rat-76
+run_uuid: 983e34bdb3f149ee9a98ef483441705d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738169848916
+status: 3
+tags: []
+user_id: vaibhav

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153455149842870254/0e1b5c8bda2440bd932efab055c5d9f4/artifacts
+end_time: 1738169848471
+entry_point_name: ''
+experiment_id: '153455149842870254'
+lifecycle_stage: active
+run_id: 0e1b5c8bda2440bd932efab055c5d9f4
+run_name: bittersweet-bass-139
+run_uuid: 0e1b5c8bda2440bd932efab055c5d9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738169847303
+status: 3
+tags: []
+user_id: vaibhav

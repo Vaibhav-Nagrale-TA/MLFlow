@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153455149842870254/bd077fe432d246799ce9477a2de86d1d/artifacts
+end_time: 1738169847276
+entry_point_name: ''
+experiment_id: '153455149842870254'
+lifecycle_stage: active
+run_id: bd077fe432d246799ce9477a2de86d1d
+run_name: respected-fish-627
+run_uuid: bd077fe432d246799ce9477a2de86d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738169844665
+status: 3
+tags: []
+user_id: vaibhav

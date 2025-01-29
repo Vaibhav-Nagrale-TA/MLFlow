@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/114644705419242362/2d8febbf5b1d4545af335aae87d10c8b/artifacts
+deleted_time: 1738169343267
+end_time: 1738159933791
+entry_point_name: ''
+experiment_id: '114644705419242362'
+lifecycle_stage: deleted
+run_id: 2d8febbf5b1d4545af335aae87d10c8b
+run_name: mysterious-toad-811
+run_uuid: 2d8febbf5b1d4545af335aae87d10c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738159933263
+status: 3
+tags: []
+user_id: vaibhav

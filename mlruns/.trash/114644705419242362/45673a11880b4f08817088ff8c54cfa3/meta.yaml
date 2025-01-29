@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/114644705419242362/45673a11880b4f08817088ff8c54cfa3/artifacts
+deleted_time: 1738169343267
+end_time: 1738161289413
+entry_point_name: ''
+experiment_id: '114644705419242362'
+lifecycle_stage: deleted
+run_id: 45673a11880b4f08817088ff8c54cfa3
+run_name: defiant-asp-913
+run_uuid: 45673a11880b4f08817088ff8c54cfa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738161287641
+status: 3
+tags: []
+user_id: vaibhav

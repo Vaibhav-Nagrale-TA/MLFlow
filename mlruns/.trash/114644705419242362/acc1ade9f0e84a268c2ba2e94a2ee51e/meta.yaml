@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/114644705419242362/acc1ade9f0e84a268c2ba2e94a2ee51e/artifacts
+deleted_time: 1738169343267
+end_time: 1738163221748
+entry_point_name: ''
+experiment_id: '114644705419242362'
+lifecycle_stage: deleted
+run_id: acc1ade9f0e84a268c2ba2e94a2ee51e
+run_name: wistful-stork-337
+run_uuid: acc1ade9f0e84a268c2ba2e94a2ee51e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738163219693
+status: 3
+tags: []
+user_id: vaibhav
